@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/bliss_lavender.mk
+    $(LOCAL_DIR)/fuse_lavender.mk
 
 COMMON_LUNCH_CHOICES := \
-    bliss_lavender-user \
-    bliss_lavender-userdebug \
-    bliss_lavender-eng
+    fuse_lavender-user \
+    fuse_lavender-userdebug \
+    fuse_lavender-eng
